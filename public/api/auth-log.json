@@ -52389,66 +52389,31 @@
 	},
 	{
 		"date" : "2026-10-07",
-		"url" : "\/auth\/:interactionId\/doConfirm",
-		"lfinamekey" : "uae-fabretail",
-		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 33.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth",
-		"lfinamekey" : "uae-cbdrt",
-		"tppresponsecodegroup" : "4xx",
-		"totalapicalls" : 2.0
-	},
-	{
-		"date" : "2026-10-07",
 		"url" : "\/auth",
 		"lfinamekey" : "uae-wioretail",
 		"tppresponsecodegroup" : "4xx",
-		"totalapicalls" : 4.0
+		"totalapicalls" : 38.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth",
-		"lfinamekey" : "uae-mashrt",
+		"lfinamekey" : "uae-fabretail",
 		"tppresponsecodegroup" : "2xx",
-		"totalapicalls" : 202.0
+		"totalapicalls" : 143.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth",
-		"lfinamekey" : "uae-hsbcrt",
+		"lfinamekey" : "uae-fabretail",
 		"tppresponsecodegroup" : "4xx",
-		"totalapicalls" : 2.0
+		"totalapicalls" : 3.0
 	},
 	{
 		"date" : "2026-10-07",
-		"url" : "\/auth\/:interactionId\/doFail",
-		"lfinamekey" : "uae-hsbcws",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-adibrt",
 		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 2.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth\/:interactionId\/doFail",
-		"lfinamekey" : "uae-mashrt",
-		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 10.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth",
-		"lfinamekey" : "uae-hsbcrt",
-		"tppresponsecodegroup" : "2xx",
-		"totalapicalls" : 49.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth",
-		"lfinamekey" : "uae-enbdx",
-		"tppresponsecodegroup" : "2xx",
-		"totalapicalls" : 2.0
+		"totalapicalls" : 79.0
 	},
 	{
 		"date" : "2026-10-07",
@@ -52460,93 +52425,156 @@
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth\/:interactionId\/doConfirm",
-		"lfinamekey" : "uae-cbdrt",
+		"lfinamekey" : "uae-fabretail",
 		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 5.0
+		"totalapicalls" : 112.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth\/:interactionId\/doFail",
-		"lfinamekey" : "uae-hsbcrt",
+		"lfinamekey" : "uae-nbfrt",
 		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 5.0
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 70.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 523.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth",
 		"lfinamekey" : "uae-mashrt",
 		"tppresponsecodegroup" : "4xx",
-		"totalapicalls" : 6.0
+		"totalapicalls" : 28.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 15.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth",
-		"lfinamekey" : "uae-cbdrt",
+		"lfinamekey" : "uae-wioretail",
 		"tppresponsecodegroup" : "2xx",
-		"totalapicalls" : 5.0
+		"totalapicalls" : 588.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 199.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-hsbcws",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 3.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 17.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-nbfrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 1.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth\/:interactionId\/doConfirm",
 		"lfinamekey" : "uae-mashrt",
 		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 135.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth",
-		"lfinamekey" : "uae-fabretail",
-		"tppresponsecodegroup" : "2xx",
-		"totalapicalls" : 40.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth",
-		"lfinamekey" : "uae-wioretail",
-		"tppresponsecodegroup" : "2xx",
-		"totalapicalls" : 161.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth",
-		"lfinamekey" : "uae-adibrt",
-		"tppresponsecodegroup" : "2xx",
-		"totalapicalls" : 49.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth\/:interactionId\/doConfirm",
-		"lfinamekey" : "uae-adibrt",
-		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 22.0
-	},
-	{
-		"date" : "2026-10-07",
-		"url" : "\/auth\/:interactionId\/doFail",
-		"lfinamekey" : "uae-adibrt",
-		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 16.0
+		"totalapicalls" : 532.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth\/:interactionId\/doFail",
 		"lfinamekey" : "uae-wioretail",
 		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 5.0
+		"totalapicalls" : 13.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 3.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth",
 		"lfinamekey" : "uae-hsbcws",
 		"tppresponsecodegroup" : "2xx",
-		"totalapicalls" : 4.0
+		"totalapicalls" : 6.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 14.0
 	},
 	{
 		"date" : "2026-10-07",
 		"url" : "\/auth\/:interactionId\/doConfirm",
 		"lfinamekey" : "uae-hsbcrt",
 		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 27.0
+		"totalapicalls" : 82.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 59.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-enbdx",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 14.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 18.0
 	},
 	{
 		"date" : "2026-10-07",
@@ -52557,16 +52585,772 @@
 	},
 	{
 		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 812.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-07",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 126.0
+	},
+	{
+		"date" : "2026-10-08",
 		"url" : "\/auth\/:interactionId\/doFail",
 		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 23.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 289.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 492.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 60.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adcbrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 9.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 92.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 832.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 3.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-hsbcws",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 570.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 157.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 554.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 127.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 4.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 23.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 122.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-hsbcws",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 126.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 16.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-adcbrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 7.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 15.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 19.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 90.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 24.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 25.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcws",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 4.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 53.0
+	},
+	{
+		"date" : "2026-10-08",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 8.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 389.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 14.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 154.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 5.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 25.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 115.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 10.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 360.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 11.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 3.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 6.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 398.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-adcbrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 402.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 134.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 46.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 191.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 603.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 13.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 98.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adcbrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-enbdx",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 3.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 22.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 195.0
+	},
+	{
+		"date" : "2026-10-09",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 16.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 11.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-enbdx",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 4.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 535.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 422.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 16.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 12.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-livx",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 118.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 370.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 24.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 13.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 17.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 121.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 46.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-adcbrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 22.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 4.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adcbrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 107.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 23.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 333.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 385.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 154.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-enbdx",
 		"tppresponsecodegroup" : "3xx",
 		"totalapicalls" : 4.0
 	},
 	{
-		"date" : "2026-10-07",
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-livx",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 189.0
+	},
+	{
+		"date" : "2026-10-10",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 68.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 24.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 3.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 4.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 12.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 7.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 118.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adcbrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 74.0
+	},
+	{
+		"date" : "2026-10-11",
 		"url" : "\/auth\/:interactionId\/doConfirm",
 		"lfinamekey" : "uae-wioretail",
 		"tppresponsecodegroup" : "3xx",
-		"totalapicalls" : 143.0
+		"totalapicalls" : 57.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 65.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 9.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 30.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 9.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 18.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "4xx",
+		"totalapicalls" : 8.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-wioretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 4.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth",
+		"lfinamekey" : "uae-cbdrt",
+		"tppresponsecodegroup" : "2xx",
+		"totalapicalls" : 2.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doFail",
+		"lfinamekey" : "uae-adibrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 29.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-mashrt",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 81.0
+	},
+	{
+		"date" : "2026-10-11",
+		"url" : "\/auth\/:interactionId\/doConfirm",
+		"lfinamekey" : "uae-fabretail",
+		"tppresponsecodegroup" : "3xx",
+		"totalapicalls" : 24.0
 	}
 ]

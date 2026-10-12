@@ -76,7 +76,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 15.219999999999999,
+		"amount": 15.22,
 		"count": 2
 	},
 	{
@@ -216,7 +216,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 2.3499999999999996,
+		"amount": 2.35,
 		"count": 2
 	},
 	{
@@ -336,7 +336,7 @@
 		"paymentpurposecode": "OAT",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 19.119999999999997,
+		"amount": 19.12,
 		"count": 2
 	},
 	{
@@ -376,7 +376,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 19.830000000000002,
+		"amount": 19.83,
 		"count": 8
 	},
 	{
@@ -386,7 +386,7 @@
 		"paymentpurposecode": "OAT",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 8.629999999999999,
+		"amount": 8.63,
 		"count": 4
 	},
 	{
@@ -676,7 +676,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 3.6399999999999997,
+		"amount": 3.64,
 		"count": 2
 	},
 	{
@@ -736,7 +736,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 8.940000000000001,
+		"amount": 8.94,
 		"count": 2
 	},
 	{
@@ -746,7 +746,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 12.540000000000001,
+		"amount": 12.54,
 		"count": 4
 	},
 	{
@@ -756,7 +756,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "Pending",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 14.129999999999999,
+		"amount": 14.13,
 		"count": 6
 	},
 	{
@@ -786,7 +786,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 11.579999999999998,
+		"amount": 11.58,
 		"count": 3
 	},
 	{
@@ -826,7 +826,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 19.509999999999998,
+		"amount": 19.51,
 		"count": 9
 	},
 	{
@@ -856,7 +856,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 30.700000000000003,
+		"amount": 30.7,
 		"count": 11
 	},
 	{
@@ -876,7 +876,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 32.68000000000001,
+		"amount": 32.68,
 		"count": 12
 	},
 	{
@@ -936,7 +936,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 21.049999999999997,
+		"amount": 21.05,
 		"count": 7
 	},
 	{
@@ -946,7 +946,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "Pending",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 29.630000000000003,
+		"amount": 29.63,
 		"count": 9
 	},
 	{
@@ -1016,7 +1016,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 26.080000000000002,
+		"amount": 26.08,
 		"count": 11
 	},
 	{
@@ -1036,7 +1036,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 29.890000000000004,
+		"amount": 29.89,
 		"count": 13
 	},
 	{
@@ -1046,7 +1046,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 31.149999999999995,
+		"amount": 31.15,
 		"count": 10
 	},
 	{
@@ -1056,7 +1056,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 7.609999999999999,
+		"amount": 7.61,
 		"count": 3
 	},
 	{
@@ -1086,7 +1086,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "Pending",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 35.080000000000005,
+		"amount": 35.08,
 		"count": 11
 	},
 	{
@@ -1096,7 +1096,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 31.790000000000003,
+		"amount": 31.79,
 		"count": 12
 	},
 	{
@@ -1146,7 +1146,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "Pending",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 30.630000000000003,
+		"amount": 30.63,
 		"count": 11
 	},
 	{
@@ -1156,7 +1156,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 31.290000000000003,
+		"amount": 31.29,
 		"count": 12
 	},
 	{
@@ -1206,7 +1206,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 26.080000000000002,
+		"amount": 26.08,
 		"count": 8
 	},
 	{
@@ -1256,7 +1256,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 6.1899999999999995,
+		"amount": 6.19,
 		"count": 2
 	},
 	{
@@ -1296,7 +1296,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 19.409999999999997,
+		"amount": 19.41,
 		"count": 8
 	},
 	{
@@ -1306,7 +1306,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 24.320000000000004,
+		"amount": 24.32,
 		"count": 10
 	},
 	{
@@ -1316,7 +1316,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 22.019999999999996,
+		"amount": 22.02,
 		"count": 12
 	},
 	{
@@ -1346,7 +1346,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 33.269999999999996,
+		"amount": 33.27,
 		"count": 12
 	},
 	{
@@ -1396,7 +1396,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "Pending",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 28.709999999999997,
+		"amount": 28.71,
 		"count": 9
 	},
 	{
@@ -1466,7 +1466,7 @@
 		"paymentpurposecode": "OAT",
 		"status": "Pending",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 43.699999999999996,
+		"amount": 43.7,
 		"count": 5
 	},
 	{
@@ -1756,7 +1756,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 15.550000000000002,
+		"amount": 15.55,
 		"count": 6
 	},
 	{
@@ -1936,7 +1936,7 @@
 		"paymentpurposecode": "FIS",
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 23.139999999999997,
+		"amount": 23.14,
 		"count": 7
 	},
 	{
@@ -1956,7 +1956,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 19.799999999999997,
+		"amount": 19.8,
 		"count": 4
 	},
 	{
@@ -2086,7 +2086,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 6.5600000000000005,
+		"amount": 6.56,
 		"count": 2
 	},
 	{
@@ -3176,7 +3176,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 2.2199999999999998,
+		"amount": 2.22,
 		"count": 2
 	},
 	{
@@ -3576,7 +3576,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 23.130000000000003,
+		"amount": 23.13,
 		"count": 2
 	},
 	{
@@ -4076,7 +4076,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 64.82000000000001,
+		"amount": 64.82,
 		"count": 4
 	},
 	{
@@ -4176,7 +4176,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 60.56999999999999,
+		"amount": 60.57,
 		"count": 5
 	},
 	{
@@ -4276,7 +4276,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 10.540000000000001,
+		"amount": 10.54,
 		"count": 5
 	},
 	{
@@ -4396,7 +4396,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 24.130000000000003,
+		"amount": 24.13,
 		"count": 2
 	},
 	{
@@ -4686,7 +4686,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 2.1399999999999997,
+		"amount": 2.14,
 		"count": 2
 	},
 	{
@@ -4836,7 +4836,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 42.56999999999999,
+		"amount": 42.57,
 		"count": 4
 	},
 	{
@@ -5186,7 +5186,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 31.310000000000002,
+		"amount": 31.31,
 		"count": 3
 	},
 	{
@@ -5496,7 +5496,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 12.209999999999999,
+		"amount": 12.21,
 		"count": 3
 	},
 	{
@@ -5956,7 +5956,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 2.0300000000000002,
+		"amount": 2.03,
 		"count": 2
 	},
 	{
@@ -6186,7 +6186,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 2.3200000000000003,
+		"amount": 2.32,
 		"count": 2
 	},
 	{
@@ -7006,7 +7006,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 24.689999999999998,
+		"amount": 24.69,
 		"count": 3
 	},
 	{
@@ -8926,7 +8926,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 18.169999999999998,
+		"amount": 18.17,
 		"count": 7
 	},
 	{
@@ -9086,7 +9086,7 @@
 		"paymentpurposecode": null,
 		"status": "Rejected",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 16.979999999999997,
+		"amount": 16.98,
 		"count": 7
 	},
 	{
@@ -9226,7 +9226,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 1135.1399999999999,
+		"amount": 1135.14,
 		"count": 8
 	},
 	{
@@ -9556,7 +9556,7 @@
 		"paymentpurposecode": null,
 		"status": "Pending",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 5.390000000000001,
+		"amount": 5.39,
 		"count": 3
 	},
 	{
@@ -9676,7 +9676,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 125.97000000000003,
+		"amount": 125.97,
 		"count": 35
 	},
 	{
@@ -9836,7 +9836,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 2107.1800000000003,
+		"amount": 2107.18,
 		"count": 6
 	},
 	{
@@ -9976,7 +9976,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedCreditSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 4.199999999999999,
+		"amount": 4.2,
 		"count": 2
 	},
 	{
@@ -10116,7 +10116,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 14.379999999999999,
+		"amount": 14.38,
 		"count": 2
 	},
 	{
@@ -10206,7 +10206,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 10.190000000000001,
+		"amount": 10.19,
 		"count": 2
 	},
 	{
@@ -10306,7 +10306,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 2.5199999999999996,
+		"amount": 2.52,
 		"count": 3
 	},
 	{
@@ -10626,7 +10626,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 52054.770000000004,
+		"amount": 52054.77,
 		"count": 10
 	},
 	{
@@ -10756,7 +10756,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 963.4300000000001,
+		"amount": 963.43,
 		"count": 7
 	},
 	{
@@ -10826,7 +10826,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 2.1799999999999997,
+		"amount": 2.18,
 		"count": 2
 	},
 	{
@@ -11136,7 +11136,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 9680.119999999999,
+		"amount": 9680.12,
 		"count": 6
 	},
 	{
@@ -11286,7 +11286,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 35344.990000000005,
+		"amount": 35344.99,
 		"count": 12
 	},
 	{
@@ -11436,7 +11436,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 8.559999999999999,
+		"amount": 8.56,
 		"count": 2
 	},
 	{
@@ -12536,7 +12536,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 17.830000000000002,
+		"amount": 17.83,
 		"count": 5
 	},
 	{
@@ -12906,7 +12906,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 3.0300000000000002,
+		"amount": 3.03,
 		"count": 3
 	},
 	{
@@ -13866,7 +13866,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 6.5600000000000005,
+		"amount": 6.56,
 		"count": 2
 	},
 	{
@@ -14206,7 +14206,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 46904.490000000005,
+		"amount": 46904.49,
 		"count": 17
 	},
 	{
@@ -14390,6 +14390,16 @@
 		"count": 2
 	},
 	{
+		"date": "2026-04-12",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 2,
+		"count": 2
+	},
+	{
 		"date": "2026-04-13",
 		"lfinamekey": "uae-fabretail",
 		"tppname": "PAY TEN PAYMENT SERVICES PROVIDER LLC",
@@ -14508,6 +14518,16 @@
 		"paymentconsenttype": "VariableOnDemand",
 		"amount": 56.02,
 		"count": 4
+	},
+	{
+		"date": "2026-04-13",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 1,
+		"count": 1
 	},
 	{
 		"date": "2026-04-14",
@@ -14696,7 +14716,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 5097.2699999999995,
+		"amount": 5097.27,
 		"count": 6
 	},
 	{
@@ -14916,7 +14936,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 11484.369999999999,
+		"amount": 11484.37,
 		"count": 11
 	},
 	{
@@ -14966,7 +14986,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 4.4399999999999995,
+		"amount": 4.44,
 		"count": 4
 	},
 	{
@@ -14976,7 +14996,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 910.1800000000001,
+		"amount": 910.18,
 		"count": 4
 	},
 	{
@@ -15766,7 +15786,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 4.029999999999999,
+		"amount": 4.03,
 		"count": 2
 	},
 	{
@@ -16226,7 +16246,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 69745.07999999999,
+		"amount": 69745.08,
 		"count": 18
 	},
 	{
@@ -16526,7 +16546,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 2.6799999999999984,
+		"amount": 2.68,
 		"count": 14
 	},
 	{
@@ -16676,7 +16696,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 0.11999999999999998,
+		"amount": 0.12,
 		"count": 12
 	},
 	{
@@ -16846,7 +16866,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 119815.52999999998,
+		"amount": 119815.53,
 		"count": 17
 	},
 	{
@@ -16887,6 +16907,16 @@
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
 		"amount": 1.02,
+		"count": 1
+	},
+	{
+		"date": "2026-04-29",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 1,
 		"count": 1
 	},
 	{
@@ -17160,6 +17190,16 @@
 		"count": 1
 	},
 	{
+		"date": "2026-05-01",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 2,
+		"count": 2
+	},
+	{
 		"date": "2026-05-02",
 		"lfinamekey": "uae-dibrt",
 		"tppname": "LEAN TECH",
@@ -17416,18 +17456,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 201701.84999999998,
+		"amount": 201701.85,
 		"count": 54
-	},
-	{
-		"date": "2026-05-04",
-		"lfinamekey": "uae-adibrt",
-		"tppname": "PAY TEN PAYMENT SERVICES PROVIDER LLC",
-		"paymentpurposecode": null,
-		"status": "AcceptedWithoutPosting",
-		"paymentconsenttype": "VariableOnDemand",
-		"amount": 5,
-		"count": 1
 	},
 	{
 		"date": "2026-05-04",
@@ -17456,8 +17486,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 6,
-		"count": 2
+		"amount": 11,
+		"count": 3
 	},
 	{
 		"date": "2026-05-04",
@@ -17468,6 +17498,16 @@
 		"paymentconsenttype": "SingleInstantPayment",
 		"amount": 200,
 		"count": 1
+	},
+	{
+		"date": "2026-05-04",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 11,
+		"count": 2
 	},
 	{
 		"date": "2026-05-05",
@@ -17486,7 +17526,7 @@
 		"paymentpurposecode": null,
 		"status": "Pending",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 16.669999999999998,
+		"amount": 16.67,
 		"count": 2
 	},
 	{
@@ -17536,7 +17576,7 @@
 		"paymentpurposecode": null,
 		"status": "Rejected",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 57.37999999999999,
+		"amount": 57.38,
 		"count": 7
 	},
 	{
@@ -17546,7 +17586,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 350805.37999999995,
+		"amount": 350805.38,
 		"count": 69
 	},
 	{
@@ -17650,6 +17690,16 @@
 		"count": 2
 	},
 	{
+		"date": "2026-05-05",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 10,
+		"count": 1
+	},
+	{
 		"date": "2026-05-06",
 		"lfinamekey": "uae-enbdx",
 		"tppname": "EMIRATES NBD BANK PJSC",
@@ -17658,26 +17708,6 @@
 		"paymentconsenttype": "SingleInstantPayment",
 		"amount": 1.21,
 		"count": 1
-	},
-	{
-		"date": "2026-05-06",
-		"lfinamekey": "uae-wioretail",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
-		"status": "AcceptedSettlementCompleted",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 390401.8799999999,
-		"count": 32
-	},
-	{
-		"date": "2026-05-06",
-		"lfinamekey": "uae-mashrt",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
-		"status": "AcceptedWithoutPosting",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 47484.770000000004,
-		"count": 17
 	},
 	{
 		"date": "2026-05-06",
@@ -17716,8 +17746,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 317876.00999999995,
-		"count": 53
+		"amount": 708277.89,
+		"count": 85
 	},
 	{
 		"date": "2026-05-06",
@@ -17726,8 +17756,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 37606.3,
-		"count": 21
+		"amount": 85091.07,
+		"count": 38
 	},
 	{
 		"date": "2026-05-06",
@@ -17804,16 +17834,6 @@
 		"lfinamekey": "uae-adibrt",
 		"tppname": "LEAN TECH",
 		"paymentpurposecode": null,
-		"status": "AcceptedWithoutPosting",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 9545.25,
-		"count": 13
-	},
-	{
-		"date": "2026-05-06",
-		"lfinamekey": "uae-adibrt",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
 		"amount": 100,
@@ -17836,38 +17856,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 3661,
-		"count": 6
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-wioretail",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
-		"status": "AcceptedSettlementCompleted",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 320842.4,
-		"count": 43
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-mashrt",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
-		"status": "Pending",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 22005.25,
-		"count": 2
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-adibrt",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
-		"status": "AcceptedWithoutPosting",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 50,
-		"count": 1
+		"amount": 13206.25,
+		"count": 19
 	},
 	{
 		"date": "2026-05-07",
@@ -17894,50 +17884,10 @@
 		"lfinamekey": "uae-wioretail",
 		"tppname": "LEAN TECH",
 		"paymentpurposecode": null,
-		"status": "Pending",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 3000,
-		"count": 1
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-wioretail",
-		"tppname": null,
-		"paymentpurposecode": null,
-		"status": "Pending",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 20000,
-		"count": 1
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-mashrt",
-		"tppname": "PAY TEN PAYMENT SERVICES PROVIDER LLC",
-		"paymentpurposecode": null,
-		"status": "AcceptedWithoutPosting",
-		"paymentconsenttype": "VariableOnDemand",
-		"amount": 38351,
-		"count": 7
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-wioretail",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 347380.13999999996,
-		"count": 49
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-mashrt",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
-		"status": "Rejected",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 400,
-		"count": 1
+		"amount": 686482.54,
+		"count": 95
 	},
 	{
 		"date": "2026-05-07",
@@ -17946,8 +17896,8 @@
 		"paymentpurposecode": null,
 		"status": "Pending",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 6360.82,
-		"count": 4
+		"amount": 29360.82,
+		"count": 6
 	},
 	{
 		"date": "2026-05-07",
@@ -17986,18 +17936,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 50,
-		"count": 1
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-mashrt",
-		"tppname": "LEAN TECH",
-		"paymentpurposecode": null,
-		"status": "AcceptedWithoutPosting",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 94756.25,
-		"count": 34
+		"amount": 38401,
+		"count": 8
 	},
 	{
 		"date": "2026-05-07",
@@ -18026,8 +17966,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 17784.76,
-		"count": 18
+		"amount": 112541.01,
+		"count": 52
 	},
 	{
 		"date": "2026-05-07",
@@ -18036,8 +17976,8 @@
 		"paymentpurposecode": null,
 		"status": "Rejected",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 40,
-		"count": 2
+		"amount": 440,
+		"count": 3
 	},
 	{
 		"date": "2026-05-07",
@@ -18056,18 +17996,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 2676,
-		"count": 9
-	},
-	{
-		"date": "2026-05-07",
-		"lfinamekey": "uae-wioretail",
-		"tppname": null,
-		"paymentpurposecode": null,
-		"status": "AcceptedSettlementCompleted",
-		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 18260,
-		"count": 3
+		"amount": 2726,
+		"count": 10
 	},
 	{
 		"date": "2026-05-07",
@@ -18076,8 +18006,8 @@
 		"paymentpurposecode": null,
 		"status": "Pending",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 17000,
-		"count": 3
+		"amount": 39005.25,
+		"count": 5
 	},
 	{
 		"date": "2026-05-08",
@@ -18266,7 +18196,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 613176.9700000001,
+		"amount": 613176.97,
 		"count": 84
 	},
 	{
@@ -18436,8 +18366,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 502,
-		"count": 2
+		"amount": 3518.65,
+		"count": 12
 	},
 	{
 		"date": "2026-05-10",
@@ -18476,8 +18406,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 53336.25,
-		"count": 8
+		"amount": 166543.98,
+		"count": 42
 	},
 	{
 		"date": "2026-05-10",
@@ -18486,8 +18416,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 34517.61,
-		"count": 10
+		"amount": 299424.24,
+		"count": 44
 	},
 	{
 		"date": "2026-05-10",
@@ -18496,8 +18426,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 1.24,
-		"count": 1
+		"amount": 1401.24,
+		"count": 3
 	},
 	{
 		"date": "2026-05-10",
@@ -18506,8 +18436,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 100,
-		"count": 1
+		"amount": 400,
+		"count": 2
 	},
 	{
 		"date": "2026-05-10",
@@ -18517,6 +18447,56 @@
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
 		"amount": 9.4,
+		"count": 1
+	},
+	{
+		"date": "2026-05-10",
+		"lfinamekey": "uae-dibrt",
+		"tppname": "LEAN TECH",
+		"paymentpurposecode": null,
+		"status": "AcceptedWithoutPosting",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 2.5,
+		"count": 1
+	},
+	{
+		"date": "2026-05-10",
+		"lfinamekey": "uae-wioretail",
+		"tppname": "LEAN TECH",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 500,
+		"count": 1
+	},
+	{
+		"date": "2026-05-10",
+		"lfinamekey": "uae-cbdrt",
+		"tppname": "LEAN TECH",
+		"paymentpurposecode": null,
+		"status": "AcceptedWithoutPosting",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 5000,
+		"count": 1
+	},
+	{
+		"date": "2026-05-10",
+		"lfinamekey": "uae-hsbcrt",
+		"tppname": "HSBC BANK MIDDLE EAST LIMITED",
+		"paymentpurposecode": null,
+		"status": "AcceptedWithoutPosting",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 4,
+		"count": 2
+	},
+	{
+		"date": "2026-05-10",
+		"lfinamekey": "uae-hsbcrt",
+		"tppname": "LEAN TECH",
+		"paymentpurposecode": null,
+		"status": "AcceptedWithoutPosting",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 12,
 		"count": 1
 	},
 	{
@@ -18846,7 +18826,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 318710.50000000006,
+		"amount": 318710.5,
 		"count": 43
 	},
 	{
@@ -18936,7 +18916,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 389679.42999999993,
+		"amount": 389679.43,
 		"count": 79
 	},
 	{
@@ -18986,7 +18966,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 605283.9099999999,
+		"amount": 605283.91,
 		"count": 81
 	},
 	{
@@ -19276,7 +19256,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 225492.09000000003,
+		"amount": 225492.09,
 		"count": 63
 	},
 	{
@@ -19436,7 +19416,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 11907.970000000001,
+		"amount": 11907.97,
 		"count": 6
 	},
 	{
@@ -19456,7 +19436,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 604559.6799999999,
+		"amount": 604559.68,
 		"count": 94
 	},
 	{
@@ -19976,7 +19956,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 613794.5399999999,
+		"amount": 613794.54,
 		"count": 66
 	},
 	{
@@ -20126,7 +20106,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 10.129999999999999,
+		"amount": 10.13,
 		"count": 5
 	},
 	{
@@ -20176,7 +20156,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 498695.2200000001,
+		"amount": 498695.22,
 		"count": 68
 	},
 	{
@@ -20236,8 +20216,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 1500,
-		"count": 3
+		"amount": 4193,
+		"count": 14
 	},
 	{
 		"date": "2026-05-20",
@@ -20246,8 +20226,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 153.28,
-		"count": 2
+		"amount": 6153.28,
+		"count": 4
 	},
 	{
 		"date": "2026-05-20",
@@ -20256,8 +20236,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 1,
-		"count": 1
+		"amount": 2,
+		"count": 2
 	},
 	{
 		"date": "2026-05-20",
@@ -20276,8 +20256,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 134500.79,
-		"count": 20
+		"amount": 272280.06,
+		"count": 60
 	},
 	{
 		"date": "2026-05-20",
@@ -20286,8 +20266,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 5.91,
-		"count": 1
+		"amount": 25.91,
+		"count": 3
 	},
 	{
 		"date": "2026-05-20",
@@ -20296,8 +20276,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 337755.32,
-		"count": 24
+		"amount": 903960.87,
+		"count": 90
 	},
 	{
 		"date": "2026-05-20",
@@ -20306,8 +20286,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 6.19,
-		"count": 1
+		"amount": 11.19,
+		"count": 2
 	},
 	{
 		"date": "2026-05-20",
@@ -20336,8 +20316,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 10000,
-		"count": 1
+		"amount": 11600,
+		"count": 4
 	},
 	{
 		"date": "2026-05-20",
@@ -20347,6 +20327,56 @@
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
 		"amount": 2.99,
+		"count": 1
+	},
+	{
+		"date": "2026-05-20",
+		"lfinamekey": "uae-enbdx",
+		"tppname": "NYMCARD",
+		"paymentpurposecode": null,
+		"status": "AcceptedCreditSettlementCompleted",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 1,
+		"count": 1
+	},
+	{
+		"date": "2026-05-20",
+		"lfinamekey": "uae-enbdx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "AcceptedCreditSettlementCompleted",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 5,
+		"count": 5
+	},
+	{
+		"date": "2026-05-20",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 5,
+		"count": 5
+	},
+	{
+		"date": "2026-05-20",
+		"lfinamekey": "uae-adibrt",
+		"tppname": "LEAN TECH",
+		"paymentpurposecode": null,
+		"status": "AcceptedSettlementCompleted",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 1105.25,
+		"count": 2
+	},
+	{
+		"date": "2026-05-20",
+		"lfinamekey": "uae-adibrt",
+		"tppname": "LEAN TECH",
+		"paymentpurposecode": null,
+		"status": "AcceptedWithoutPosting",
+		"paymentconsenttype": "VariableOnDemand",
+		"amount": 700,
 		"count": 1
 	},
 	{
@@ -20540,6 +20570,16 @@
 		"count": 1
 	},
 	{
+		"date": "2026-05-21",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 1,
+		"count": 1
+	},
+	{
 		"date": "2026-05-22",
 		"lfinamekey": "uae-cbdrt",
 		"tppname": "LEAN TECH",
@@ -20706,7 +20746,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 389711.48000000004,
+		"amount": 389711.48,
 		"count": 56
 	},
 	{
@@ -20726,7 +20766,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 300295.37000000005,
+		"amount": 300295.37,
 		"count": 77
 	},
 	{
@@ -20796,7 +20836,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 614893.0800000001,
+		"amount": 614893.08,
 		"count": 103
 	},
 	{
@@ -20846,7 +20886,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 311853.06999999995,
+		"amount": 311853.07,
 		"count": 55
 	},
 	{
@@ -21016,7 +21056,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 780085.1500000001,
+		"amount": 780085.15,
 		"count": 124
 	},
 	{
@@ -21180,6 +21220,16 @@
 		"count": 1
 	},
 	{
+		"date": "2026-05-25",
+		"lfinamekey": "uae-livx",
+		"tppname": "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode": null,
+		"status": "Pending",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 1,
+		"count": 1
+	},
+	{
 		"date": "2026-05-26",
 		"lfinamekey": "uae-cbdrt",
 		"tppname": "LEAN TECH",
@@ -21216,7 +21266,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 497822.66000000003,
+		"amount": 497822.66,
 		"count": 75
 	},
 	{
@@ -21276,7 +21326,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 170937.35000000003,
+		"amount": 170937.35,
 		"count": 54
 	},
 	{
@@ -21386,7 +21436,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 495238.12999999995,
+		"amount": 495238.13,
 		"count": 73
 	},
 	{
@@ -21566,7 +21616,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 3306.3199999999997,
+		"amount": 3306.32,
 		"count": 4
 	},
 	{
@@ -21616,7 +21666,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 584036.2100000001,
+		"amount": 584036.21,
 		"count": 66
 	},
 	{
@@ -21736,7 +21786,7 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 429349.01000000007,
+		"amount": 429349.01,
 		"count": 68
 	},
 	{
@@ -21816,8 +21866,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 290.5,
-		"count": 1
+		"amount": 490.5,
+		"count": 2
 	},
 	{
 		"date": "2026-05-31",
@@ -21846,8 +21896,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 14627.45,
-		"count": 8
+		"amount": 68788.08,
+		"count": 35
 	},
 	{
 		"date": "2026-05-31",
@@ -21876,8 +21926,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 7650,
-		"count": 6
+		"amount": 10330,
+		"count": 13
 	},
 	{
 		"date": "2026-05-31",
@@ -21886,8 +21936,8 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedWithoutPosting",
 		"paymentconsenttype": "SingleInstantPayment",
-		"amount": 148916.43,
-		"count": 11
+		"amount": 485404.29,
+		"count": 73
 	},
 	{
 		"date": "2026-05-31",
@@ -21896,8 +21946,38 @@
 		"paymentpurposecode": null,
 		"status": "AcceptedSettlementCompleted",
 		"paymentconsenttype": "VariableOnDemand",
-		"amount": 6.7,
+		"amount": 321.7,
+		"count": 2
+	},
+	{
+		"date": "2026-05-31",
+		"lfinamekey": "uae-cbdrt",
+		"tppname": "LEAN TECH",
+		"paymentpurposecode": null,
+		"status": "AcceptedWithoutPosting",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 2399.45,
 		"count": 1
+	},
+	{
+		"date": "2026-05-31",
+		"lfinamekey": "uae-mashrt",
+		"tppname": "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode": null,
+		"status": "Rejected",
+		"paymentconsenttype": "VariableOnDemand",
+		"amount": 1,
+		"count": 1
+	},
+	{
+		"date": "2026-05-31",
+		"lfinamekey": "uae-adibrt",
+		"tppname": "LEAN TECH",
+		"paymentpurposecode": null,
+		"status": "AcceptedSettlementCompleted",
+		"paymentconsenttype": "SingleInstantPayment",
+		"amount": 355,
+		"count": 5
 	},
 	{
 		"date" : "2026-06-01",
@@ -21906,7 +21986,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 833743.9500000001,
+		"amount" : 833743.95,
 		"count" : 133.0
 	},
 	{
@@ -22066,7 +22146,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 7.640000000000001,
+		"amount" : 7.64,
 		"count" : 2.0
 	},
 	{
@@ -22156,7 +22236,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1176812.3099999998,
+		"amount" : 1176812.31,
 		"count" : 130.0
 	},
 	{
@@ -22426,7 +22506,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 977917.6700000004,
+		"amount" : 977917.67,
 		"count" : 133.0
 	},
 	{
@@ -22576,7 +22656,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 466574.87000000005,
+		"amount" : 466574.87,
 		"count" : 74.0
 	},
 	{
@@ -22696,7 +22776,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 140.01999999999998,
+		"amount" : 140.02,
 		"count" : 9.0
 	},
 	{
@@ -22716,7 +22796,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1695647.6099999999,
+		"amount" : 1695647.61,
 		"count" : 153.0
 	},
 	{
@@ -22826,7 +22906,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 322191.18000000005,
+		"amount" : 322191.18,
 		"count" : 72.0
 	},
 	{
@@ -22956,7 +23036,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 567063.9199999999,
+		"amount" : 567063.92,
 		"count" : 86.0
 	},
 	{
@@ -23236,7 +23316,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 692583.8099999999,
+		"amount" : 692583.81,
 		"count" : 85.0
 	},
 	{
@@ -23406,7 +23486,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 360864.87999999995,
+		"amount" : 360864.88,
 		"count" : 83.0
 	},
 	{
@@ -23478,6 +23558,16 @@
 		"paymentconsenttype" : "SingleInstantPayment",
 		"amount" : 6135.4,
 		"count" : 10.0
+	},
+	{
+		"date" : "2026-06-09",
+		"lfinamekey" : "uae-livx",
+		"tppname" : "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 2.0,
+		"count" : 2.0
 	},
 	{
 		"date" : "2026-06-10",
@@ -23586,7 +23676,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 0.12999999999999998,
+		"amount" : 0.13,
 		"count" : 9.0
 	},
 	{
@@ -23666,7 +23756,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 385738.86000000004,
+		"amount" : 385738.86,
 		"count" : 103.0
 	},
 	{
@@ -23746,7 +23836,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 188665.54999999996,
+		"amount" : 188665.55,
 		"count" : 77.0
 	},
 	{
@@ -23836,7 +23926,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 60.470000000000006,
+		"amount" : 60.47,
 		"count" : 3.0
 	},
 	{
@@ -23946,7 +24036,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 105345.01000000001,
+		"amount" : 105345.01,
 		"count" : 37.0
 	},
 	{
@@ -23976,7 +24066,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 403692.50999999995,
+		"amount" : 403692.51,
 		"count" : 73.0
 	},
 	{
@@ -24086,7 +24176,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 357437.83999999997,
+		"amount" : 357437.84,
 		"count" : 74.0
 	},
 	{
@@ -24176,7 +24266,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2.0299999999999994,
+		"amount" : 2.03,
 		"count" : 4.0
 	},
 	{
@@ -24416,7 +24506,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 262092.31000000003,
+		"amount" : 262092.31,
 		"count" : 71.0
 	},
 	{
@@ -24436,7 +24526,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 464978.38000000006,
+		"amount" : 464978.38,
 		"count" : 91.0
 	},
 	{
@@ -24696,7 +24786,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 589544.3999999999,
+		"amount" : 589544.4,
 		"count" : 105.0
 	},
 	{
@@ -24766,7 +24856,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 540981.9500000002,
+		"amount" : 540981.95,
 		"count" : 75.0
 	},
 	{
@@ -24896,7 +24986,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 310963.38999999996,
+		"amount" : 310963.39,
 		"count" : 62.0
 	},
 	{
@@ -24976,7 +25066,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 251309.71000000002,
+		"amount" : 251309.71,
 		"count" : 67.0
 	},
 	{
@@ -25026,7 +25116,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 69470.12999999999,
+		"amount" : 69470.13,
 		"count" : 35.0
 	},
 	{
@@ -25046,7 +25136,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 291739.06999999995,
+		"amount" : 291739.07,
 		"count" : 50.0
 	},
 	{
@@ -25156,7 +25246,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 864030.3400000001,
+		"amount" : 864030.34,
 		"count" : 97.0
 	},
 	{
@@ -25266,7 +25356,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 222680.90000000002,
+		"amount" : 222680.9,
 		"count" : 57.0
 	},
 	{
@@ -25296,7 +25386,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 1711.6599999999999,
+		"amount" : 1711.66,
 		"count" : 9.0
 	},
 	{
@@ -25476,7 +25566,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2.0699999999999994,
+		"amount" : 2.07,
 		"count" : 7.0
 	},
 	{
@@ -25556,7 +25646,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 604.7300000000001,
+		"amount" : 604.73,
 		"count" : 4.0
 	},
 	{
@@ -25646,7 +25736,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 1607.3799999999999,
+		"amount" : 1607.38,
 		"count" : 5.0
 	},
 	{
@@ -25696,7 +25786,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 0.060000000000000005,
+		"amount" : 0.06,
 		"count" : 6.0
 	},
 	{
@@ -25766,7 +25856,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 4.0600000000000005,
+		"amount" : 4.06,
 		"count" : 4.0
 	},
 	{
@@ -25873,6 +25963,16 @@
 		"date" : "2026-06-25",
 		"lfinamekey" : "uae-wioretail",
 		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 2.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-06-25",
+		"lfinamekey" : "uae-livx",
+		"tppname" : "EMIRATES NBD BANK PJSC",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
@@ -26060,6 +26160,16 @@
 		"count" : 1.0
 	},
 	{
+		"date" : "2026-06-26",
+		"lfinamekey" : "uae-livx",
+		"tppname" : "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 10.0,
+		"count" : 1.0
+	},
+	{
 		"date" : "2026-06-27",
 		"lfinamekey" : "uae-adibrt",
 		"tppname" : "LEAN TECH",
@@ -26076,7 +26186,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 465895.2599999999,
+		"amount" : 465895.26,
 		"count" : 112.0
 	},
 	{
@@ -26178,6 +26288,16 @@
 		"paymentconsenttype" : "VariableOnDemand",
 		"amount" : 1.18,
 		"count" : 1.0
+	},
+	{
+		"date" : "2026-06-27",
+		"lfinamekey" : "uae-livx",
+		"tppname" : "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 9.0,
+		"count" : 4.0
 	},
 	{
 		"date" : "2026-06-28",
@@ -26286,7 +26406,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 281761.94999999995,
+		"amount" : 281761.95,
 		"count" : 54.0
 	},
 	{
@@ -26346,7 +26466,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 208040.82999999996,
+		"amount" : 208040.83,
 		"count" : 68.0
 	},
 	{
@@ -26356,7 +26476,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 14.239999999999998,
+		"amount" : 14.24,
 		"count" : 3.0
 	},
 	{
@@ -26426,7 +26546,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1059926.0799999998,
+		"amount" : 1059926.08,
 		"count" : 146.0
 	},
 	{
@@ -26736,7 +26856,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1419928.9099999992,
+		"amount" : 1419928.91,
 		"count" : 230.0
 	},
 	{
@@ -26786,7 +26906,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 12329.810000000001,
+		"amount" : 12329.81,
 		"count" : 20.0
 	},
 	{
@@ -26836,7 +26956,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 514492.92000000004,
+		"amount" : 514492.92,
 		"count" : 105.0
 	},
 	{
@@ -26896,7 +27016,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 8505.060000000001,
+		"amount" : 8505.06,
 		"count" : 8.0
 	},
 	{
@@ -26946,7 +27066,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 404041.88000000006,
+		"amount" : 404041.88,
 		"count" : 114.0
 	},
 	{
@@ -27016,7 +27136,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 6057.610000000001,
+		"amount" : 6057.61,
 		"count" : 2.0
 	},
 	{
@@ -27146,7 +27266,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 32653.120000000003,
+		"amount" : 32653.12,
 		"count" : 12.0
 	},
 	{
@@ -27186,7 +27306,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 19.009999999999998,
+		"amount" : 19.01,
 		"count" : 2.0
 	},
 	{
@@ -27296,7 +27416,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 789803.9600000001,
+		"amount" : 789803.96,
 		"count" : 146.0
 	},
 	{
@@ -27316,7 +27436,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 44.050000000000004,
+		"amount" : 44.05,
 		"count" : 5.0
 	},
 	{
@@ -27406,7 +27526,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 49835.380000000005,
+		"amount" : 49835.38,
 		"count" : 15.0
 	},
 	{
@@ -27606,7 +27726,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 566374.9399999998,
+		"amount" : 566374.94,
 		"count" : 108.0
 	},
 	{
@@ -27726,7 +27846,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 226146.28000000003,
+		"amount" : 226146.28,
 		"count" : 38.0
 	},
 	{
@@ -27936,7 +28056,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 22.950000000000003,
+		"amount" : 22.95,
 		"count" : 10.0
 	},
 	{
@@ -27946,7 +28066,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 822613.6500000001,
+		"amount" : 822613.65,
 		"count" : 150.0
 	},
 	{
@@ -28206,7 +28326,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 552658.4900000001,
+		"amount" : 552658.49,
 		"count" : 129.0
 	},
 	{
@@ -28256,7 +28376,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 29.490000000000002,
+		"amount" : 29.49,
 		"count" : 5.0
 	},
 	{
@@ -28286,7 +28406,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 6779.1900000000005,
+		"amount" : 6779.19,
 		"count" : 19.0
 	},
 	{
@@ -28306,7 +28426,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 990.4200000000001,
+		"amount" : 990.42,
 		"count" : 14.0
 	},
 	{
@@ -28336,7 +28456,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 578866.4199999999,
+		"amount" : 578866.42,
 		"count" : 109.0
 	},
 	{
@@ -28396,7 +28516,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 643646.8999999999,
+		"amount" : 643646.9,
 		"count" : 109.0
 	},
 	{
@@ -28416,7 +28536,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 575857.3400000001,
+		"amount" : 575857.34,
 		"count" : 115.0
 	},
 	{
@@ -28606,7 +28726,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 454842.0999999999,
+		"amount" : 454842.1,
 		"count" : 135.0
 	},
 	{
@@ -28846,7 +28966,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 319480.43000000005,
+		"amount" : 319480.43,
 		"count" : 82.0
 	},
 	{
@@ -28946,7 +29066,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1587958.8199999998,
+		"amount" : 1587958.82,
 		"count" : 175.0
 	},
 	{
@@ -29116,7 +29236,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 946452.2800000001,
+		"amount" : 946452.28,
 		"count" : 201.0
 	},
 	{
@@ -29136,7 +29256,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1779331.2700000003,
+		"amount" : 1779331.27,
 		"count" : 197.0
 	},
 	{
@@ -29146,7 +29266,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "FixedDefinedSchedule",
-		"amount" : 3.7399999999999998,
+		"amount" : 3.74,
 		"count" : 3.0
 	},
 	{
@@ -29316,7 +29436,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1318478.1099999999,
+		"amount" : 1318478.11,
 		"count" : 182.0
 	},
 	{
@@ -29366,7 +29486,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 74.21000000000001,
+		"amount" : 74.21,
 		"count" : 4.0
 	},
 	{
@@ -29456,7 +29576,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 53594.14000000001,
+		"amount" : 53594.14,
 		"count" : 14.0
 	},
 	{
@@ -29546,7 +29666,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 866187.0200000001,
+		"amount" : 866187.02,
 		"count" : 189.0
 	},
 	{
@@ -29706,7 +29826,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1032495.3500000001,
+		"amount" : 1032495.35,
 		"count" : 161.0
 	},
 	{
@@ -29776,7 +29896,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 972368.3999999999,
+		"amount" : 972368.4,
 		"count" : 166.0
 	},
 	{
@@ -29876,7 +29996,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 853680.1900000002,
+		"amount" : 853680.19,
 		"count" : 102.0
 	},
 	{
@@ -29906,7 +30026,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 395023.29999999993,
+		"amount" : 395023.3,
 		"count" : 89.0
 	},
 	{
@@ -30156,7 +30276,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 4100.9400000000005,
+		"amount" : 4100.94,
 		"count" : 16.0
 	},
 	{
@@ -30216,7 +30336,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1258601.3599999999,
+		"amount" : 1258601.36,
 		"count" : 127.0
 	},
 	{
@@ -30286,7 +30406,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1088367.5300000003,
+		"amount" : 1088367.53,
 		"count" : 172.0
 	},
 	{
@@ -30466,7 +30586,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1255289.6500000001,
+		"amount" : 1255289.65,
 		"count" : 137.0
 	},
 	{
@@ -30686,7 +30806,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 3.2199999999999998,
+		"amount" : 3.22,
 		"count" : 3.0
 	},
 	{
@@ -30706,7 +30826,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1603146.8900000001,
+		"amount" : 1603146.89,
 		"count" : 182.0
 	},
 	{
@@ -30806,7 +30926,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 6960.410000000001,
+		"amount" : 6960.41,
 		"count" : 26.0
 	},
 	{
@@ -30836,7 +30956,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1493858.2599999995,
+		"amount" : 1493858.26,
 		"count" : 161.0
 	},
 	{
@@ -31016,7 +31136,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 2293.1800000000003,
+		"amount" : 2293.18,
 		"count" : 16.0
 	},
 	{
@@ -31026,7 +31146,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1074504.5999999999,
+		"amount" : 1074504.6,
 		"count" : 153.0
 	},
 	{
@@ -31076,7 +31196,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 810075.0000000002,
+		"amount" : 810075.0,
 		"count" : 134.0
 	},
 	{
@@ -31146,7 +31266,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1065241.7699999998,
+		"amount" : 1065241.77,
 		"count" : 95.0
 	},
 	{
@@ -31236,7 +31356,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 431602.7099999999,
+		"amount" : 431602.71,
 		"count" : 107.0
 	},
 	{
@@ -31376,7 +31496,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1240529.6099999999,
+		"amount" : 1240529.61,
 		"count" : 236.0
 	},
 	{
@@ -31406,7 +31526,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1926967.0000000002,
+		"amount" : 1926967.0,
 		"count" : 197.0
 	},
 	{
@@ -31426,7 +31546,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "FixedDefinedSchedule",
-		"amount" : 3.1800000000000006,
+		"amount" : 3.18,
 		"count" : 3.0
 	},
 	{
@@ -31446,7 +31566,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2802637.6800000006,
+		"amount" : 2802637.68,
 		"count" : 233.0
 	},
 	{
@@ -31626,7 +31746,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1124946.0700000005,
+		"amount" : 1124946.07,
 		"count" : 224.0
 	},
 	{
@@ -31666,7 +31786,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1206394.7700000005,
+		"amount" : 1206394.77,
 		"count" : 191.0
 	},
 	{
@@ -31726,7 +31846,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1232647.2700000003,
+		"amount" : 1232647.27,
 		"count" : 248.0
 	},
 	{
@@ -31786,7 +31906,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 18991.699999999997,
+		"amount" : 18991.7,
 		"count" : 35.0
 	},
 	{
@@ -31916,7 +32036,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1250591.4700000002,
+		"amount" : 1250591.47,
 		"count" : 236.0
 	},
 	{
@@ -32196,7 +32316,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1464550.6800000004,
+		"amount" : 1464550.68,
 		"count" : 217.0
 	},
 	{
@@ -32206,7 +32326,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 14815.510000000002,
+		"amount" : 14815.51,
 		"count" : 48.0
 	},
 	{
@@ -32436,7 +32556,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1114796.3900000001,
+		"amount" : 1114796.39,
 		"count" : 173.0
 	},
 	{
@@ -32466,7 +32586,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 602165.3799999999,
+		"amount" : 602165.38,
 		"count" : 200.0
 	},
 	{
@@ -32486,7 +32606,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 3901.4000000000005,
+		"amount" : 3901.4,
 		"count" : 4.0
 	},
 	{
@@ -32536,7 +32656,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1030834.5900000002,
+		"amount" : 1030834.59,
 		"count" : 233.0
 	},
 	{
@@ -32656,7 +32776,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2112713.0600000005,
+		"amount" : 2112713.06,
 		"count" : 264.0
 	},
 	{
@@ -32786,7 +32906,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 6091.469999999999,
+		"amount" : 6091.47,
 		"count" : 21.0
 	},
 	{
@@ -32946,7 +33066,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1526002.2599999998,
+		"amount" : 1526002.26,
 		"count" : 228.0
 	},
 	{
@@ -32976,7 +33096,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1900391.5499999998,
+		"amount" : 1900391.55,
 		"count" : 214.0
 	},
 	{
@@ -32986,7 +33106,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 5128.389999999999,
+		"amount" : 5128.39,
 		"count" : 19.0
 	},
 	{
@@ -33436,7 +33556,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1040607.5900000001,
+		"amount" : 1040607.59,
 		"count" : 149.0
 	},
 	{
@@ -33446,7 +33566,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 746666.4000000001,
+		"amount" : 746666.4,
 		"count" : 188.0
 	},
 	{
@@ -33656,7 +33776,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 2321.2200000000003,
+		"amount" : 2321.22,
 		"count" : 13.0
 	},
 	{
@@ -33696,7 +33816,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 32051.440000000002,
+		"amount" : 32051.44,
 		"count" : 8.0
 	},
 	{
@@ -33856,7 +33976,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 9439.560000000001,
+		"amount" : 9439.56,
 		"count" : 34.0
 	},
 	{
@@ -33936,7 +34056,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 578568.9600000001,
+		"amount" : 578568.96,
 		"count" : 119.0
 	},
 	{
@@ -34046,7 +34166,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1424416.6099999999,
+		"amount" : 1424416.61,
 		"count" : 169.0
 	},
 	{
@@ -34356,7 +34476,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1684054.0499999998,
+		"amount" : 1684054.05,
 		"count" : 178.0
 	},
 	{
@@ -34466,7 +34586,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1131941.8500000003,
+		"amount" : 1131941.85,
 		"count" : 169.0
 	},
 	{
@@ -34606,7 +34726,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 37211.270000000004,
+		"amount" : 37211.27,
 		"count" : 8.0
 	},
 	{
@@ -34736,7 +34856,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1353532.0700000003,
+		"amount" : 1353532.07,
 		"count" : 180.0
 	},
 	{
@@ -34916,7 +35036,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1622896.0399999996,
+		"amount" : 1622896.04,
 		"count" : 192.0
 	},
 	{
@@ -34986,7 +35106,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 12758.560000000001,
+		"amount" : 12758.56,
 		"count" : 10.0
 	},
 	{
@@ -35096,7 +35216,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 882847.5199999999,
+		"amount" : 882847.52,
 		"count" : 177.0
 	},
 	{
@@ -35156,7 +35276,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1144431.0699999996,
+		"amount" : 1144431.07,
 		"count" : 158.0
 	},
 	{
@@ -35536,7 +35656,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1247834.9199999997,
+		"amount" : 1247834.92,
 		"count" : 212.0
 	},
 	{
@@ -35576,7 +35696,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1474986.1099999999,
+		"amount" : 1474986.11,
 		"count" : 194.0
 	},
 	{
@@ -35716,7 +35836,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1045248.6599999999,
+		"amount" : 1045248.66,
 		"count" : 96.0
 	},
 	{
@@ -36036,7 +36156,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 2089.2799999999997,
+		"amount" : 2089.28,
 		"count" : 5.0
 	},
 	{
@@ -36096,7 +36216,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 610360.8599999999,
+		"amount" : 610360.86,
 		"count" : 154.0
 	},
 	{
@@ -36176,7 +36296,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1824305.3000000005,
+		"amount" : 1824305.3,
 		"count" : 193.0
 	},
 	{
@@ -36196,7 +36316,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1440151.6800000004,
+		"amount" : 1440151.68,
 		"count" : 184.0
 	},
 	{
@@ -36366,7 +36486,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1277456.5100000002,
+		"amount" : 1277456.51,
 		"count" : 180.0
 	},
 	{
@@ -36666,7 +36786,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1181074.0499999998,
+		"amount" : 1181074.05,
 		"count" : 163.0
 	},
 	{
@@ -36706,7 +36826,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 587482.4599999998,
+		"amount" : 587482.46,
 		"count" : 118.0
 	},
 	{
@@ -36816,7 +36936,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 3835.6099999999997,
+		"amount" : 3835.61,
 		"count" : 28.0
 	},
 	{
@@ -36826,7 +36946,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 805452.1699999999,
+		"amount" : 805452.17,
 		"count" : 123.0
 	},
 	{
@@ -36896,7 +37016,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 948358.0999999995,
+		"amount" : 948358.1,
 		"count" : 190.0
 	},
 	{
@@ -36916,7 +37036,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2266494.7200000007,
+		"amount" : 2266494.72,
 		"count" : 218.0
 	},
 	{
@@ -37206,7 +37326,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2227694.9499999997,
+		"amount" : 2227694.95,
 		"count" : 262.0
 	},
 	{
@@ -37516,7 +37636,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1032348.3200000001,
+		"amount" : 1032348.32,
 		"count" : 223.0
 	},
 	{
@@ -37606,7 +37726,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "DelegatedPayment",
-		"amount" : 4.210000000000001,
+		"amount" : 4.21,
 		"count" : 4.0
 	},
 	{
@@ -37716,7 +37836,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2617301.1999999997,
+		"amount" : 2617301.2,
 		"count" : 279.0
 	},
 	{
@@ -37866,7 +37986,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 107811.56999999999,
+		"amount" : 107811.57,
 		"count" : 10.0
 	},
 	{
@@ -37876,7 +37996,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1661574.7399999998,
+		"amount" : 1661574.74,
 		"count" : 231.0
 	},
 	{
@@ -38006,7 +38126,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1283694.0899999999,
+		"amount" : 1283694.09,
 		"count" : 270.0
 	},
 	{
@@ -38116,7 +38236,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 4258.9400000000005,
+		"amount" : 4258.94,
 		"count" : 3.0
 	},
 	{
@@ -38126,7 +38246,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 6699.610000000001,
+		"amount" : 6699.61,
 		"count" : 40.0
 	},
 	{
@@ -38206,7 +38326,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 794130.9400000001,
+		"amount" : 794130.94,
 		"count" : 161.0
 	},
 	{
@@ -38296,7 +38416,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 5.529999999999999,
+		"amount" : 5.53,
 		"count" : 2.0
 	},
 	{
@@ -38406,7 +38526,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 9389.630000000001,
+		"amount" : 9389.63,
 		"count" : 4.0
 	},
 	{
@@ -38446,7 +38566,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2216893.4399999995,
+		"amount" : 2216893.44,
 		"count" : 360.0
 	},
 	{
@@ -38556,7 +38676,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2175548.8600000003,
+		"amount" : 2175548.86,
 		"count" : 279.0
 	},
 	{
@@ -38566,7 +38686,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 3631.1800000000003,
+		"amount" : 3631.18,
 		"count" : 6.0
 	},
 	{
@@ -38786,7 +38906,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 428.84999999999997,
+		"amount" : 428.85,
 		"count" : 6.0
 	},
 	{
@@ -38936,7 +39056,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 104141.93000000001,
+		"amount" : 104141.93,
 		"count" : 14.0
 	},
 	{
@@ -39006,7 +39126,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1687365.3999999997,
+		"amount" : 1687365.4,
 		"count" : 369.0
 	},
 	{
@@ -39016,7 +39136,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 4588.889999999999,
+		"amount" : 4588.89,
 		"count" : 11.0
 	},
 	{
@@ -39046,7 +39166,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 6269.780000000001,
+		"amount" : 6269.78,
 		"count" : 27.0
 	},
 	{
@@ -39176,7 +39296,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2411777.3899999997,
+		"amount" : 2411777.39,
 		"count" : 285.0
 	},
 	{
@@ -39236,7 +39356,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 2042.1599999999999,
+		"amount" : 2042.16,
 		"count" : 6.0
 	},
 	{
@@ -39246,7 +39366,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 27832.719999999998,
+		"amount" : 27832.72,
 		"count" : 13.0
 	},
 	{
@@ -39276,7 +39396,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1890683.7100000007,
+		"amount" : 1890683.71,
 		"count" : 251.0
 	},
 	{
@@ -39366,7 +39486,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1614050.2099999995,
+		"amount" : 1614050.21,
 		"count" : 326.0
 	},
 	{
@@ -39576,7 +39696,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1578146.5999999999,
+		"amount" : 1578146.6,
 		"count" : 308.0
 	},
 	{
@@ -39596,7 +39716,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1943656.3100000003,
+		"amount" : 1943656.31,
 		"count" : 262.0
 	},
 	{
@@ -39936,7 +40056,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 738298.5500000003,
+		"amount" : 738298.55,
 		"count" : 203.0
 	},
 	{
@@ -39956,7 +40076,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 947732.7799999998,
+		"amount" : 947732.78,
 		"count" : 188.0
 	},
 	{
@@ -40186,7 +40306,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1599.0700000000002,
+		"amount" : 1599.07,
 		"count" : 2.0
 	},
 	{
@@ -40576,7 +40696,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1715069.4300000002,
+		"amount" : 1715069.43,
 		"count" : 214.0
 	},
 	{
@@ -40846,7 +40966,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 3028.1400000000003,
+		"amount" : 3028.14,
 		"count" : 28.0
 	},
 	{
@@ -40926,7 +41046,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1508603.5500000007,
+		"amount" : 1508603.55,
 		"count" : 274.0
 	},
 	{
@@ -40966,7 +41086,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2093127.0500000003,
+		"amount" : 2093127.05,
 		"count" : 251.0
 	},
 	{
@@ -41036,7 +41156,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 16817.629999999997,
+		"amount" : 16817.63,
 		"count" : 5.0
 	},
 	{
@@ -41086,7 +41206,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 5887.7699999999995,
+		"amount" : 5887.77,
 		"count" : 41.0
 	},
 	{
@@ -41156,7 +41276,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 426740.23000000004,
+		"amount" : 426740.23,
 		"count" : 45.0
 	},
 	{
@@ -41226,7 +41346,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1900685.7000000004,
+		"amount" : 1900685.7,
 		"count" : 237.0
 	},
 	{
@@ -41346,7 +41466,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1103131.0899999999,
+		"amount" : 1103131.09,
 		"count" : 170.0
 	},
 	{
@@ -41836,7 +41956,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1256232.6800000002,
+		"amount" : 1256232.68,
 		"count" : 177.0
 	},
 	{
@@ -41926,7 +42046,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 3.8200000000000003,
+		"amount" : 3.82,
 		"count" : 3.0
 	},
 	{
@@ -41946,7 +42066,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableDefinedSchedule",
-		"amount" : 0.22999999999999998,
+		"amount" : 0.23,
 		"count" : 3.0
 	},
 	{
@@ -42026,7 +42146,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "DelegatedPayment",
-		"amount" : 0.33999999999999997,
+		"amount" : 0.34,
 		"count" : 4.0
 	},
 	{
@@ -42386,7 +42506,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1859187.1500000001,
+		"amount" : 1859187.15,
 		"count" : 224.0
 	},
 	{
@@ -42396,7 +42516,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 3.5200000000000005,
+		"amount" : 3.52,
 		"count" : 3.0
 	},
 	{
@@ -42606,7 +42726,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1275763.7300000002,
+		"amount" : 1275763.73,
 		"count" : 211.0
 	},
 	{
@@ -42736,7 +42856,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1.1500000000000001,
+		"amount" : 1.15,
 		"count" : 2.0
 	},
 	{
@@ -42786,7 +42906,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 3.5999999999999996,
+		"amount" : 3.6,
 		"count" : 2.0
 	},
 	{
@@ -42816,7 +42936,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 1654.1599999999999,
+		"amount" : 1654.16,
 		"count" : 16.0
 	},
 	{
@@ -43026,7 +43146,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1597231.2300000004,
+		"amount" : 1597231.23,
 		"count" : 227.0
 	},
 	{
@@ -43116,7 +43236,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2272899.9699999993,
+		"amount" : 2272899.97,
 		"count" : 220.0
 	},
 	{
@@ -43246,7 +43366,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 6.140000000000001,
+		"amount" : 6.14,
 		"count" : 2.0
 	},
 	{
@@ -43296,7 +43416,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 839090.6900000001,
+		"amount" : 839090.69,
 		"count" : 159.0
 	},
 	{
@@ -43346,7 +43466,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableDefinedSchedule",
-		"amount" : 3004.0299999999997,
+		"amount" : 3004.03,
 		"count" : 3.0
 	},
 	{
@@ -43466,7 +43586,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 663350.7199999999,
+		"amount" : 663350.72,
 		"count" : 168.0
 	},
 	{
@@ -43686,7 +43806,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableDefinedSchedule",
-		"amount" : 1.1600000000000001,
+		"amount" : 1.16,
 		"count" : 2.0
 	},
 	{
@@ -43726,7 +43846,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2383.8599999999997,
+		"amount" : 2383.86,
 		"count" : 7.0
 	},
 	{
@@ -43866,7 +43986,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 19194.510000000002,
+		"amount" : 19194.51,
 		"count" : 18.0
 	},
 	{
@@ -43966,7 +44086,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 13.389999999999999,
+		"amount" : 13.39,
 		"count" : 5.0
 	},
 	{
@@ -43986,7 +44106,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 43101.740000000005,
+		"amount" : 43101.74,
 		"count" : 40.0
 	},
 	{
@@ -44076,7 +44196,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1325861.1599999997,
+		"amount" : 1325861.16,
 		"count" : 223.0
 	},
 	{
@@ -44146,7 +44266,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1730241.1400000004,
+		"amount" : 1730241.14,
 		"count" : 250.0
 	},
 	{
@@ -44186,7 +44306,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 9502.900000000001,
+		"amount" : 9502.9,
 		"count" : 11.0
 	},
 	{
@@ -44246,7 +44366,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1345158.1900000002,
+		"amount" : 1345158.19,
 		"count" : 190.0
 	},
 	{
@@ -44356,7 +44476,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1427517.1300000004,
+		"amount" : 1427517.13,
 		"count" : 239.0
 	},
 	{
@@ -44496,7 +44616,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1.1400000000000001,
+		"amount" : 1.14,
 		"count" : 2.0
 	},
 	{
@@ -44716,7 +44836,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2414715.6399999997,
+		"amount" : 2414715.64,
 		"count" : 277.0
 	},
 	{
@@ -44776,7 +44896,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 15744.779999999999,
+		"amount" : 15744.78,
 		"count" : 21.0
 	},
 	{
@@ -44816,8 +44936,8 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 6698.110000000001,
-		"count" : 18.0
+		"amount" : 7799.61,
+		"count" : 20.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -44826,8 +44946,8 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 564.0,
-		"count" : 2.0
+		"amount" : 568.0,
+		"count" : 6.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -44846,8 +44966,8 @@
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 265389.33999999997,
-		"count" : 43.0
+		"amount" : 285719.8,
+		"count" : 50.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -44856,8 +44976,8 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1050093.6099999999,
-		"count" : 200.0
+		"amount" : 1110745.25,
+		"count" : 210.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -44866,8 +44986,8 @@
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 3596.7100000000005,
-		"count" : 12.0
+		"amount" : 4166.71,
+		"count" : 15.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -44906,7 +45026,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 3530.0499999999997,
+		"amount" : 3530.05,
 		"count" : 6.0
 	},
 	{
@@ -44926,8 +45046,8 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 43712.869999999995,
-		"count" : 47.0
+		"amount" : 47085.87,
+		"count" : 56.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -44976,8 +45096,8 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2388916.22,
-		"count" : 268.0
+		"amount" : 2576101.64,
+		"count" : 293.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -45006,7 +45126,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 184799.69000000003,
+		"amount" : 184799.69,
 		"count" : 19.0
 	},
 	{
@@ -45066,8 +45186,8 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 30331.32,
-		"count" : 9.0
+		"amount" : 36331.32,
+		"count" : 10.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -45096,8 +45216,8 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 511985.35000000003,
-		"count" : 97.0
+		"amount" : 731807.61,
+		"count" : 127.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -45106,8 +45226,8 @@
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 100.0,
-		"count" : 2.0
+		"amount" : 130.0,
+		"count" : 3.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -45116,8 +45236,8 @@
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 400221.60000000003,
-		"count" : 50.0
+		"amount" : 449640.6,
+		"count" : 54.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -45156,8 +45276,8 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 1345.0,
-		"count" : 12.0
+		"amount" : 1845.0,
+		"count" : 16.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -45166,8 +45286,8 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 17919.36,
-		"count" : 7.0
+		"amount" : 19099.36,
+		"count" : 8.0
 	},
 	{
 		"date" : "2026-09-25",
@@ -45186,7 +45306,27 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1.01,
+		"amount" : 2.02,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-09-25",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 50.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-09-25",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 10005.25,
 		"count" : 1.0
 	},
 	{
@@ -45376,7 +45516,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1245252.2100000004,
+		"amount" : 1245252.21,
 		"count" : 246.0
 	},
 	{
@@ -45596,7 +45736,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 653775.3899999999,
+		"amount" : 653775.39,
 		"count" : 186.0
 	},
 	{
@@ -45626,7 +45766,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 914.2399999999999,
+		"amount" : 914.24,
 		"count" : 5.0
 	},
 	{
@@ -45696,7 +45836,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 95229.45999999999,
+		"amount" : 95229.46,
 		"count" : 19.0
 	},
 	{
@@ -46046,7 +46186,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 75348.51999999999,
+		"amount" : 75348.52,
 		"count" : 23.0
 	},
 	{
@@ -46126,7 +46266,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 11.879999999999999,
+		"amount" : 11.88,
 		"count" : 2.0
 	},
 	{
@@ -46166,7 +46306,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 3.0700000000000003,
+		"amount" : 3.07,
 		"count" : 3.0
 	},
 	{
@@ -46336,7 +46476,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2345214.7600000002,
+		"amount" : 2345214.76,
 		"count" : 427.0
 	},
 	{
@@ -46556,7 +46696,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2072636.3599999996,
+		"amount" : 2072636.36,
 		"count" : 275.0
 	},
 	{
@@ -46726,7 +46866,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 148451.65999999997,
+		"amount" : 148451.66,
 		"count" : 10.0
 	},
 	{
@@ -46986,7 +47126,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 10521.529999999999,
+		"amount" : 10521.53,
 		"count" : 28.0
 	},
 	{
@@ -47016,7 +47156,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 4.699999999999999,
+		"amount" : 4.7,
 		"count" : 4.0
 	},
 	{
@@ -47056,7 +47196,7 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1544198.8300000003,
+		"amount" : 1544198.83,
 		"count" : 310.0
 	},
 	{
@@ -47376,7 +47516,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1819398.1900000006,
+		"amount" : 1819398.19,
 		"count" : 459.0
 	},
 	{
@@ -47396,7 +47536,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 26849.989999999998,
+		"amount" : 26849.99,
 		"count" : 44.0
 	},
 	{
@@ -47476,7 +47616,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 107763.34000000001,
+		"amount" : 107763.34,
 		"count" : 31.0
 	},
 	{
@@ -47566,7 +47706,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1669050.8299999998,
+		"amount" : 1669050.83,
 		"count" : 233.0
 	},
 	{
@@ -47636,7 +47776,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 22188.399999999998,
+		"amount" : 22188.4,
 		"count" : 51.0
 	},
 	{
@@ -47796,7 +47936,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 35830.979999999996,
+		"amount" : 35830.98,
 		"count" : 22.0
 	},
 	{
@@ -47966,7 +48106,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 27552.989999999998,
+		"amount" : 27552.99,
 		"count" : 12.0
 	},
 	{
@@ -48016,7 +48156,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 1357984.2300000002,
+		"amount" : 1357984.23,
 		"count" : 230.0
 	},
 	{
@@ -48066,7 +48206,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 9246.630000000001,
+		"amount" : 9246.63,
 		"count" : 6.0
 	},
 	{
@@ -48226,7 +48366,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 2706588.5500000003,
+		"amount" : 2706588.55,
 		"count" : 336.0
 	},
 	{
@@ -48366,7 +48506,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 3268091.8899999987,
+		"amount" : 3268091.89,
 		"count" : 343.0
 	},
 	{
@@ -48456,7 +48596,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 78678.47999999998,
+		"amount" : 78678.48,
 		"count" : 29.0
 	},
 	{
@@ -48486,7 +48626,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 174973.09000000003,
+		"amount" : 174973.09,
 		"count" : 47.0
 	},
 	{
@@ -48526,7 +48666,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 11213.560000000001,
+		"amount" : 11213.56,
 		"count" : 12.0
 	},
 	{
@@ -48536,7 +48676,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 48270.759999999995,
+		"amount" : 48270.76,
 		"count" : 9.0
 	},
 	{
@@ -48596,7 +48736,7 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 6059.9400000000005,
+		"amount" : 6059.94,
 		"count" : 26.0
 	},
 	{
@@ -48651,13 +48791,63 @@
 	},
 	{
 		"date" : "2026-10-07",
-		"lfinamekey" : "uae-mashrt",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 602.07,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-wioretail",
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 635485.7799999999,
-		"count" : 99.0
+		"amount" : 4101749.7,
+		"count" : 362.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 22442.57,
+		"count" : 23.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 46147.24,
+		"count" : 5.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 31910.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 200.0,
+		"count" : 2.0
 	},
 	{
 		"date" : "2026-10-07",
@@ -48666,8 +48856,68 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 49035.65,
-		"count" : 11.0
+		"amount" : 166252.76,
+		"count" : 44.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 48456.59,
+		"count" : 26.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1000.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 7725.5,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 23173.67,
+		"count" : 38.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 8306.0,
+		"count" : 8.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1840.0,
+		"count" : 4.0
 	},
 	{
 		"date" : "2026-10-07",
@@ -48676,38 +48926,18 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 11512.6,
-		"count" : 5.0
+		"amount" : 35356.35,
+		"count" : 13.0
 	},
 	{
 		"date" : "2026-10-07",
-		"lfinamekey" : "uae-fabretail",
-		"tppname" : "LEAN TECH",
+		"lfinamekey" : "uae-adcbrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
-		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 25999.0,
-		"count" : 4.0
-	},
-	{
-		"date" : "2026-10-07",
-		"lfinamekey" : "uae-adibrt",
-		"tppname" : "LEAN TECH",
-		"paymentpurposecode" : null,
-		"status" : "AcceptedSettlementCompleted",
-		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 16308.09,
-		"count" : 5.0
-	},
-	{
-		"date" : "2026-10-07",
-		"lfinamekey" : "uae-wioretail",
-		"tppname" : "LEAN TECH",
-		"paymentpurposecode" : null,
-		"status" : "Pending",
-		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 29.59,
-		"count" : 1.0
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 110.0,
+		"count" : 2.0
 	},
 	{
 		"date" : "2026-10-07",
@@ -48716,28 +48946,8 @@
 		"paymentpurposecode" : null,
 		"status" : "Pending",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 100.0,
-		"count" : 1.0
-	},
-	{
-		"date" : "2026-10-07",
-		"lfinamekey" : "uae-wioretail",
-		"tppname" : "LEAN TECH",
-		"paymentpurposecode" : null,
-		"status" : "AcceptedWithoutPosting",
-		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 3620.0,
-		"count" : 5.0
-	},
-	{
-		"date" : "2026-10-07",
-		"lfinamekey" : "uae-wioretail",
-		"tppname" : "LEAN TECH",
-		"paymentpurposecode" : null,
-		"status" : "AcceptedWithoutPosting",
-		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 772504.65,
-		"count" : 92.0
+		"amount" : 300.0,
+		"count" : 3.0
 	},
 	{
 		"date" : "2026-10-07",
@@ -48745,9 +48955,9 @@
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
-		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 1730.33,
-		"count" : 7.0
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1904295.47,
+		"count" : 361.0
 	},
 	{
 		"date" : "2026-10-07",
@@ -48755,8 +48965,38 @@
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 63563.15,
+		"count" : 6.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 200930.38,
+		"count" : 52.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 100.0,
+		"amount" : 3865.0,
+		"count" : 19.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1.3,
 		"count" : 1.0
 	},
 	{
@@ -48764,10 +49004,60 @@
 		"lfinamekey" : "uae-fabretail",
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
-		"status" : "AcceptedSettlementCompleted",
+		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 7231.0,
-		"count" : 3.0
+		"amount" : 3251.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 100.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-cbdrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 10000.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 7945.7,
+		"count" : 16.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 45023.0,
+		"count" : 10.0
+	},
+	{
+		"date" : "2026-10-07",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "MASHREQ BANK PSC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 100.0,
+		"count" : 1.0
 	},
 	{
 		"date" : "2026-10-07",
@@ -48776,13 +49066,193 @@
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 31224.31,
-		"count" : 7.0
+		"amount" : 60392.38,
+		"count" : 14.0
 	},
 	{
-		"date" : "2026-10-07",
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 11040.01,
+		"count" : 26.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-cbdrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 69508.01,
+		"count" : 19.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-adcbrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1.85,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 261189.19,
+		"count" : 62.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 3281976.97,
+		"count" : 308.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 90.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 18373.0,
+		"count" : 29.0
+	},
+	{
+		"date" : "2026-10-08",
 		"lfinamekey" : "uae-fabretail",
 		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 11411.18,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedCreditSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 18420.0,
+		"count" : 4.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 20536.0,
+		"count" : 31.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 49223.23,
+		"count" : 25.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 348.0,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 103870.0,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-hsbcws",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 2.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1000.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 400.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 2030713.68,
+		"count" : 374.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 17800.0,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
@@ -48790,63 +49260,893 @@
 		"count" : 1.0
 	},
 	{
-		"date" : "2026-10-07",
-		"lfinamekey" : "uae-hsbcrt",
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-fabretail",
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 80767.74,
-		"count" : 20.0
+		"amount" : 65774.93,
+		"count" : 13.0
 	},
 	{
-		"date" : "2026-10-07",
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 18333.18,
+		"count" : 28.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 4877.0,
+		"count" : 6.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 29342.9,
+		"count" : 12.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 101.28,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 196151.4,
+		"count" : 45.0
+	},
+	{
+		"date" : "2026-10-08",
 		"lfinamekey" : "uae-mashrt",
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "Rejected",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 4800.0,
+		"amount" : 15809.12,
+		"count" : 4.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 12.47,
 		"count" : 1.0
 	},
 	{
-		"date" : "2026-10-07",
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 320.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-08",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1800.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 16193.13,
+		"count" : 28.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 820.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 200.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 109115.38,
+		"count" : 24.0
+	},
+	{
+		"date" : "2026-10-09",
 		"lfinamekey" : "uae-adibrt",
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 103.7,
+		"amount" : 27037.0,
+		"count" : 41.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 2100.0,
+		"count" : 4.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 34045.0,
+		"count" : 6.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1410827.11,
+		"count" : 282.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 51500.0,
 		"count" : 2.0
 	},
 	{
-		"date" : "2026-10-07",
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 10.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 33186.7,
+		"count" : 33.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 228238.44,
+		"count" : 53.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-cbdrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 20841.75,
+		"count" : 6.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 2000.0,
+		"count" : 5.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 201.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 33006.67,
+		"count" : 12.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 4000.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 11330.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 2167682.47,
+		"count" : 233.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1001.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 81984.5,
+		"count" : 4.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 55302.9,
+		"count" : 19.0
+	},
+	{
+		"date" : "2026-10-09",
 		"lfinamekey" : "uae-hsbcrt",
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "SingleInstantPayment",
-		"amount" : 7625.5,
+		"amount" : 7312.96,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 500.0,
 		"count" : 1.0
 	},
 	{
-		"date" : "2026-10-07",
-		"lfinamekey" : "uae-hsbcrt",
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-mashrt",
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedWithoutPosting",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 2.0700000000000003,
+		"amount" : 14013.22,
+		"count" : 43.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 50.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-09",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedCreditSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 27601.95,
+		"count" : 26.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 130559.79,
+		"count" : 36.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-cbdrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 59403.81,
+		"count" : 15.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 50000.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 12957.0,
+		"count" : 9.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 35443.0,
+		"count" : 37.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 37493.96,
+		"count" : 23.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 9644.5,
+		"count" : 19.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-cbdrt",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 3.0,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-enbdx",
+		"tppname" : "EMIRATES NBD BANK PJSC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 10.63,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 50.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 50470.09,
+		"count" : 15.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 43977.84,
+		"count" : 7.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 95332.26,
+		"count" : 18.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-adcbrt",
+		"tppname" : "PAY TEN PAYMENT SERVICES PROVIDER LLC",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 20.0,
 		"count" : 2.0
 	},
 	{
-		"date" : "2026-10-07",
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedCreditSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 32410.72,
+		"count" : 18.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 3000.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 3268.0,
+		"count" : 4.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 76650.75,
+		"count" : 13.0
+	},
+	{
+		"date" : "2026-10-10",
 		"lfinamekey" : "uae-adibrt",
 		"tppname" : "LEAN TECH",
 		"paymentpurposecode" : null,
 		"status" : "AcceptedSettlementCompleted",
 		"paymentconsenttype" : "VariableOnDemand",
-		"amount" : 1285.0,
+		"amount" : 15745.03,
+		"count" : 55.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1052522.23,
+		"count" : 208.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1300.0,
+		"count" : 2.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 20524.9,
+		"count" : 33.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "SPARE DIGITAL TECHNOLOGIES LLC S.O.C",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1201.0,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1581173.19,
+		"count" : 237.0
+	},
+	{
+		"date" : "2026-10-10",
+		"lfinamekey" : "uae-adcbrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 10.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 181288.21,
+		"count" : 55.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 2162.0,
 		"count" : 4.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 88093.52,
+		"count" : 38.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 18703.33,
+		"count" : 5.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 18.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1958.97,
+		"count" : 10.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1.31,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 60.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-adibrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 285.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 22535.47,
+		"count" : 8.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 7455.0,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-mashrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1767.0,
+		"count" : 7.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 1000.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Pending",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 2006.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedCreditSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 2793.02,
+		"count" : 5.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-fabretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 220.0,
+		"count" : 3.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "Rejected",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 4188.85,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 20882.78,
+		"count" : 7.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-hsbcrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedSettlementCompleted",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 9350.0,
+		"count" : 1.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-wioretail",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "VariableOnDemand",
+		"amount" : 6701.0,
+		"count" : 4.0
+	},
+	{
+		"date" : "2026-10-11",
+		"lfinamekey" : "uae-cbdrt",
+		"tppname" : "LEAN TECH",
+		"paymentpurposecode" : null,
+		"status" : "AcceptedWithoutPosting",
+		"paymentconsenttype" : "SingleInstantPayment",
+		"amount" : 1350.0,
+		"count" : 2.0
 	}
 ]

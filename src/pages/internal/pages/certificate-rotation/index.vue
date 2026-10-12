@@ -25,8 +25,8 @@ useHead({ title: 'Certificate rotation' })
 const {
   env, organisationId, lfiCode, certType, csr, csrError,
   orgIdError, lfiCodeError, description, ready,
-  busy, error, errorDetail, result, redirecting, loopDetected, restored,
-  loadCsr, clearCsr, restore, submit, retry,
+  busy, error, errorDetail, result, redirecting, loopDetected, signedIn,
+  loadCsr, clearCsr, restore, signIn, submit,
 } = useCertificateRotation()
 
 onMounted(restore)
@@ -67,6 +67,8 @@ function onLfiInput(e: Event): void {
 }
 
 function onSubmit(): void {
+  // Enter in a field must not start a sign-in bounce.
+  if (!signedIn.value) return
   attempted.value = true
   void submit()
 }
@@ -245,19 +247,32 @@ function download(): void {
           <div class="cr__fname">Description</div>
           <div class="cr__hint"><code>{{ description }}</code></div>
         </div>
-        <button type="submit" class="cr__go" :disabled="busy || redirecting || (attempted && !ready)">
+        <button
+          v-if="!signedIn"
+          type="button"
+          class="cr__go"
+          :disabled="redirecting || !ROTATION_ENVS.includes(env)"
+          @click="signIn"
+        >
+          {{ redirecting ? 'Redirecting…' : 'Log in' }}
+        </button>
+        <button v-else type="submit" class="cr__go" :disabled="busy || (attempted && !ready)">
           {{ busy ? 'Creating…' : 'Create certificate' }}
         </button>
       </div>
 
-      <p v-if="restored && !busy" class="cr__note">
-        Signed in. Your form has been restored — check it and press
-        <strong>Create certificate</strong> to submit.
+      <p v-if="redirecting" class="cr__note">
+        Taking you to the {{ ENV_LABEL[env] }} Trust Framework to log in. Your form
+        is kept for when you come back.
       </p>
 
-      <p v-if="redirecting" class="cr__note">
-        Taking you to the Trust Framework to sign in. Your form is kept, and you
-        submit it again when you come back.
+      <p v-else-if="!signedIn && !loopDetected && !error" class="cr__note">
+        Log in to the {{ ENV_LABEL[env] }} Trust Framework directory first. Your
+        form is kept while you log in.
+      </p>
+
+      <p v-else-if="signedIn && !busy && !result && !error" class="cr__ok">
+        You are now logged in and ready to create the certificate.
       </p>
 
       <div v-else-if="loopDetected" class="cr__error">
@@ -268,7 +283,7 @@ function download(): void {
           allowed for this site and that your directory account can manage this
           organisation's certificates.
         </p>
-        <button type="button" class="cr__pick" @click="retry">Try again</button>
+        <button type="button" class="cr__pick" @click="signIn">Log in again</button>
       </div>
 
       <p v-else-if="busy" class="cr__note">Submitting the CSR to the {{ ENV_LABEL[env] }} directory…</p>
@@ -493,6 +508,7 @@ function download(): void {
 
 .cr__note, .cr__error { margin: 0; font-size: 0.88rem; }
 .cr__note { color: var(--at-mute); }
+.cr__ok { margin: 0; font-size: 0.88rem; font-weight: 600; color: var(--at-teal-deep); }
 .cr__error { color: #B3261E; }
 .cr__errline { margin: 0 0 0.4rem; }
 .cr__done { font-size: 0.95rem; font-weight: 600; color: var(--at-teal-deep); }

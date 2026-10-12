@@ -5,10 +5,14 @@
 // SANDBOX ONLY for now. Production is shown, disabled, so the page already has
 // the shape it will have once the API grows a production path.
 //
-// Sign-in works like the PII report: the directory call acts as the signed-in
-// person, so a 401 bounces to Trust Framework SSO. Unlike the PII report the
-// request is NOT re-sent automatically on return — it creates a certificate, so
-// the form is restored and the user presses the button again knowingly.
+// Sign-in is an explicit first step: the directory call acts as the signed-in
+// person, so the page offers "Log in" (a top-level bounce to Trust Framework SSO)
+// and only offers "Create certificate" once the user is back. The form is parked
+// in sessionStorage across the round trip and restored on return. Nothing is
+// submitted automatically — it creates a certificate, so the user presses the
+// button knowingly. The reports API has no session-status endpoint, so "signed
+// in" means "came back from sign-in in this page load"; a 401 on create puts the
+// page back to the Log in step.
 //
 // Every check here is repeated by the API; these exist so mistakes show up as
 // you type rather than as a refused request.
@@ -36,9 +40,10 @@ const LFI_CODE_RE = /^[a-z0-9](?:[a-z0-9-]{0,30}[a-z0-9])$/
 const CSR_RE = /^-----BEGIN (NEW )?CERTIFICATE REQUEST-----\s*\n([A-Za-z0-9+/=\s]+?)\n-----END (NEW )?CERTIFICATE REQUEST-----\s*$/
 export const MAX_CSR_BYTES = 16 * 1024
 
+// A 401 this soon after signing in means the session never stuck (third-party
+// cookies blocked, no access) rather than that it expired.
 const LOGIN_COOLDOWN_MS = 120_000
 const RESUME_TTL_MS = 10 * 60_000
-const MARKER_KEY = 'nebras_cert_rotation_login_attempt'
 const FORM_KEY = 'nebras_cert_rotation_form'
 
 export interface ParsedCsr {
@@ -98,8 +103,10 @@ export function useCertificateRotation() {
   const result = ref<RotationResult | null>(null)
   const redirecting = ref(false)
   const loopDetected = ref(false)
-  /** True when the form was restored after a sign-in round trip. */
-  const restored = ref(false)
+  /** True once the user is back from sign-in, until the API says otherwise. */
+  const signedIn = ref(false)
+  /** When the sign-in round trip that set signedIn started. */
+  let signedInAt = 0
 
   const orgIdNorm = computed(() => organisationId.value.trim().toLowerCase())
 
@@ -131,6 +138,9 @@ export function useCertificateRotation() {
   const ready = computed(() =>
     !!csr.value && !orgIdError.value && !lfiCodeError.value && !!certType.value,
   )
+
+  // A session belongs to one directory environment.
+  watch(env, () => { signedIn.value = false })
 
   // A result belongs to the inputs that produced it.
   watch([organisationId, lfiCode, certType, csr], () => {
@@ -196,40 +206,26 @@ export function useCertificateRotation() {
         const parsed = parseCsr(String(saved.csr.name ?? 'request.csr'), String(saved.csr.text))
         if (typeof parsed !== 'string') csr.value = parsed
       }
-      restored.value = true
+      signedIn.value = true
+      signedInAt = saved.t
     } catch { /* corrupt entry — start clean */ }
   }
 
-  /** Same loop guard as useReports: do not bounce twice inside the cooldown. */
-  function startSignIn(target: string): boolean {
-    if (typeof window === 'undefined') return false
-    let marker = 0
-    try { marker = Number(window.sessionStorage.getItem(MARKER_KEY) || 0) } catch { /* ignore */ }
-    if (marker && Date.now() - marker < LOGIN_COOLDOWN_MS) {
-      try { window.sessionStorage.removeItem(MARKER_KEY) } catch { /* ignore */ }
-      loopDetected.value = true
-      return false
-    }
-    try { window.sessionStorage.setItem(MARKER_KEY, String(Date.now())) } catch { /* ignore */ }
+  /** Send the user to Trust Framework SSO, keeping the form for their return. */
+  function signIn(): void {
+    if (typeof window === 'undefined' || !ROTATION_ENVS.includes(env.value)) return
     saveForm()
     rememberSignInReturn()
     redirecting.value = true
-    window.location.href = withRedirect(target)
-    return true
-  }
-
-  function clearMarker(): void {
-    try { window.sessionStorage.removeItem(MARKER_KEY) } catch { /* ignore */ }
-    clearSignInReturn()
+    window.location.href = withRedirect(`${API_BASE}/login/${env.value}`)
   }
 
   async function submit(): Promise<void> {
-    if (!ready.value || busy.value || !ROTATION_ENVS.includes(env.value)) return
+    if (!signedIn.value || !ready.value || busy.value || !ROTATION_ENVS.includes(env.value)) return
     error.value = null
     errorDetail.value = null
     result.value = null
     loopDetected.value = false
-    restored.value = false
     busy.value = true
     try {
       const res = await fetch(`${API_BASE}/certificates/rotate?env=${env.value}`, {
@@ -246,13 +242,18 @@ export function useCertificateRotation() {
       const body = await res.json().catch(() => null)
 
       if (!res.ok) {
-        if (res.status === 401 && startSignIn(body?.login_url ?? `${API_BASE}/login/${env.value}`)) return
+        if (res.status === 401) {
+          signedIn.value = false
+          if (Date.now() - signedInAt < LOGIN_COOLDOWN_MS) loopDetected.value = true
+          else error.value = 'Your directory session has expired. Log in again, then create the certificate.'
+          return
+        }
         error.value = body?.error ?? `Request failed (${res.status})`
         errorDetail.value = body?.detail ?? null
         return
       }
 
-      clearMarker()
+      clearSignInReturn()
       result.value = body as RotationResult
     } catch (e) {
       error.value = e instanceof Error ? e.message : 'Network error'
@@ -261,16 +262,10 @@ export function useCertificateRotation() {
     }
   }
 
-  function retry(): void {
-    clearMarker()
-    loopDetected.value = false
-    void submit()
-  }
-
   return {
     env, organisationId, lfiCode, certType, csr, csrError,
     orgIdError, lfiCodeError, description, ready,
-    busy, error, errorDetail, result, redirecting, loopDetected, restored,
-    loadCsr, clearCsr, restore, submit, retry,
+    busy, error, errorDetail, result, redirecting, loopDetected, signedIn,
+    loadCsr, clearCsr, restore, signIn, submit,
   }
 }
