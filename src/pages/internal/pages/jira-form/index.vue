@@ -184,12 +184,18 @@ watch(
 </template>
 
 <style scoped>
-.jf { max-width: 46rem; }
+.jf {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+  font-family: var(--at-sans);
+  color: var(--at-mute-2);
+}
 
 .jf__eyebrow {
   font-family: var(--at-mono);
   font-size: 0.7rem;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--at-teal-deep);
   font-weight: 700;
